@@ -18,6 +18,8 @@ echo %content%
 
 set commitContent="%name% %content%"
 
+REM set toc=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
+
 git gc
 git prune
 
